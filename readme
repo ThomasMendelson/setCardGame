@@ -3,4 +3,4 @@ key pad:
 "Q  W E R          U I O P"
 "A S D F           J K L ;"
 "Z X C V           M , . /"
-"more over you can config ComputerPlayers, Freez time for point/penaly, players names and more"
+"more over you can config ComputerPlayers, Freez time for point/penaly, players names and more in src\main\resources\config.propreties"
